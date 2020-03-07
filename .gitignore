@@ -1,0 +1,24 @@
+# Idea
+.idea
+*.iml
+
+# Maven
+out/
+target/
+dependency-reduced-pom.xml
+
+# Eclipse
+.project
+.classpath
+.factorypath
+.apt_generated
+.settings/
+rebel.xml
+
+# OSX
+.DS_STORE
+.Trashes
+
+# Windows
+Desktop.ini
+Thumbs.db
